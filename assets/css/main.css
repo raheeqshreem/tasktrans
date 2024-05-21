@@ -70,7 +70,7 @@ border-radius: 10px;
     order: 1;
 }
 
-@media (max-width:600px){
+@media (max-width:692px){
     body{
        
         .list{
